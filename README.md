@@ -45,3 +45,13 @@ Saiba como definir requisitos de projeto, coletar dados relevantes e planejar a 
 1. Clone este repositório em seu ambiente local:
    ```bash
    git clone https://github.com/seu-usuario/awesome-ml-learning.git
+
+## Licença
+
+Este curso está disponível sob a [Licença MIT] (LICENSE.md). Sinta-se à vontade para usar, modificar e distribuir o conteúdo, desde que dê a devida atribuição e cumpra os termos da licença.
+
+## Contato
+
+Se você tiver dúvidas, sugestões ou desejar entrar em contato, não hesite em abrir um issue neste repositório.
+
+Esperamos que este curso sirva como uma fonte valiosa de conhecimento e inspire sua jornada na criação com modelos generativos.
