@@ -48,7 +48,7 @@ Saiba como definir requisitos de projeto, coletar dados relevantes e planejar a 
 
 ## Licença
 
-Este curso está disponível sob a [Licença MIT] (LICENSE.md). Sinta-se à vontade para usar, modificar e distribuir o conteúdo, desde que dê a devida atribuição e cumpra os termos da licença.
+Este curso está disponível sob a [MIT License](LICENSE.md). Sinta-se à vontade para usar, modificar e distribuir o conteúdo, desde que dê a devida atribuição e cumpra os termos da licença.
 
 ## Contato
 
