@@ -54,4 +54,4 @@ Este curso está disponível sob a [MIT License](LICENSE.md). Sinta-se à vontad
 
 Se você tiver dúvidas, sugestões ou desejar entrar em contato, não hesite em abrir um issue neste repositório.
 
-Esperamos que este curso sirva como uma fonte valiosa de conhecimento e inspire sua jornada na criação com modelos generativos.
+Espero que este curso sirva como uma fonte valiosa de conhecimento e inspire sua jornada na criação com modelos de aprendizagem de máquina.
