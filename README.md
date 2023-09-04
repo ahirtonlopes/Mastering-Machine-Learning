@@ -34,7 +34,7 @@ Saiba como definir requisitos de projeto, coletar dados relevantes e planejar a 
 
 ## Estrutura do Repositório
 
-- **Aulas**: Este diretório contém material de aula, apresentações, além de notebooks Jupyter extra não utilizados durante as demos nas aulas.
+- **Aulas**: Este diretório contém material de aula, apresentações, além de notebooks Jupyter extra.
 
 - **Projetos**: Aqui, você encontrará projetos práticos relacionados aos tópicos abordados nas aulas (demos).
 
