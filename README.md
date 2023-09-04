@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório de aulas em Machine Learning! Este repositório foi criado para fornecer recursos de aprendizado em Machine Learning, abrangendo uma variedade de tópicos essenciais e técnicas práticas. As aulas abordam desde conceitos fundamentais até implementações avançadas em projetos de Machine Learning.
 
+Drive com todos os materiais disponíveis: https://drive.google.com/drive/folders/1CuA1jTukXdpaBBvTHJVZfWCl_oq1YAhX?usp=sharing
+
 ## Descrição do Curso
 
 Este curso abrange uma ampla gama de tópicos em Machine Learning, incluindo:
