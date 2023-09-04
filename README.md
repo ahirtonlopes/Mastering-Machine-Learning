@@ -20,7 +20,7 @@ Descubra como avaliar o desempenho de modelos de Machine Learning usando métric
 
 - **Regressão Linear e Logística**: Aprenda como implementar modelos de regressão linear e logística para resolver problemas de regressão e classificação.
 
-- **Árvores de Decisão**: Domine o uso de árvores de decisão para tarefas de classificação e regressão, incluindo florestas aleatórias e gradient boosting.
+- **Árvores de Decisão**: Domine o uso de árvores de decisão para tarefas de classificação e regressão.
 
 - **KNN (K-Nearest Neighbors)**: Entenda o KNN e como ele funciona para classificação e regressão baseada em vizinhos mais próximos.
 
