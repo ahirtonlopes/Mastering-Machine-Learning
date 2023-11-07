@@ -48,7 +48,7 @@ Saiba como definir requisitos de projeto, coletar dados relevantes e planejar a 
 
 1. Clone este repositório em seu ambiente local:
    ```bash
-   git clone https://github.com/ahirtonlopes/awesome-ml-learning.git
+   git clone https://github.com/ahirtonlopes/Masteringe-Machine-Learning.git
 
 ## Licença
 
